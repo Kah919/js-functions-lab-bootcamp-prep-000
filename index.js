@@ -3,4 +3,6 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 
-let happyHolidayTo = (holiday, name) => {return "Happy ${holiday}, ${name}!"}
+function happyHolidaysTo(name) {
+  return "Happy holidays, ${name}"
+}
