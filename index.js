@@ -7,4 +7,4 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 
-let happyHolidayTo = (holiday, name) => {return `Happy ${holiday}, ${name}`!}
+let happyHolidayTo = (holiday, name) => {return `Happy ${holiday}, ${name}!`}
